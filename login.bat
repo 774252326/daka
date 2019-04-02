@@ -2,7 +2,7 @@ adb shell input tap 60 456
 timeout 2
 call capscreen %1/%0-1
 
-adb shell input text "123456"
+adb shell input text %2
 timeout 2
 call capscreen %1/%0-2
 
