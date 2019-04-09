@@ -9,3 +9,5 @@ setup:
 6.hidden all app icon in minidesktop except mingdao
 7.open mingdao and login and logout
 8.setup Windows Task Scheduler to run dao.bat on weekdays
+9.add bluestacks to uac whitelist
+10.add bluestacks shortcut to startup folder C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
