@@ -1,12 +1,12 @@
-adb shell input tap 307 871
+adb shell input tap 308 875
 timeout 15
 call capscreen %1/%0-1
 
-#adb shell input tap 540 1350
-#timeout 10
-#call capscreen %1/%0-2a
+adb shell input tap 360 692
+timeout 10
+call capscreen %1/%0-1a
 
-adb shell input tap 270 891
+adb shell input tap 360 894
 timeout 10
 call capscreen %1/%0-2
 
