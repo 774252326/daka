@@ -6,7 +6,7 @@ Rem adb shell input tap 870 1225
 Rem timeout 3
 Rem call capscreen %1/%0-2
 
-adb shell input tap 74 182
+adb shell input tap 70 70
 timeout 15
 call capscreen %1/%0-3
 
